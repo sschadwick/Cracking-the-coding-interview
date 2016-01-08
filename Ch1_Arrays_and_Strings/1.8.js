@@ -1,7 +1,5 @@
 // Zero Matrix: 1.8
 
-// Element to Zero will be passed in as matrix[1][2];
-
 function zero(matrix, y, x) {
   var yCoord = y - 1;
   var xCoord = x - 1;
